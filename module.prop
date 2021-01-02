@@ -1,7 +1,7 @@
-id=VolumeStepsExtender
-name=Volume Steps Extender
+id=MVSE
+name=Media Volume Steps Extender
 version=v1.0
 versionCode=1
-author=Fablos
-description=A magisk module to Increase the Volume Steps.
-support=https://github.com/Fabl0s/VolumeStepsExtender
+author=Micdu70
+description=A magisk module to increase the Media Volume Steps to 25.
+support=https://github.com/Micdu70/VolumeStepsExtender
